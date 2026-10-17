@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+# files created while running
+.photodedup.sqlite
+.photodedup.sqlite-journal
+_quarantine/
+photo_dup_groups.csv
